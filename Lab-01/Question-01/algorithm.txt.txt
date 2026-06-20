@@ -1,0 +1,16 @@
+ALGORITHM FOR QUESTION 1
+
+1. Start
+2. Declare two integer variables: num1 and num2
+3. Prompt the user to enter the first integer
+4. Read the value of num1
+5. Prompt the user to enter the second integer
+6. Read the value of num2
+7. Calculate the sum of num1 and num2
+8. Calculate the difference of num1 and num2
+9. Calculate the product of num1 and num2
+10.Check if num2 is not equal to zero
+11. If num2 is not zero, calculate the quotient of num1 and num2
+12. Otherwise, display a message that division by zero is not allowed
+13. Display the sum, difference, product, and quotient
+14. Stop

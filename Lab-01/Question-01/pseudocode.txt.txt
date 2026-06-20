@@ -1,0 +1,21 @@
+BEGIN
+
+DECLARE num1, num2 AS INTEGER
+
+DISPLAY "Enter the first integer: "
+INPUT num1
+
+DISPLAY "Enter the second integer: "
+INPUT num2
+
+DISPLAY "Sum = ", num1 + num2
+DISPLAY "Difference = ", num1 - num2
+DISPLAY "Product = ", num1 * num2
+
+IF num2 ≠ 0 THEN
+DISPLAY "Quotient = ", num1 / num2
+ELSE
+DISPLAY "Quotient = Undefined (cannot divide by zero)"
+END IF
+
+END
