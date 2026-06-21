@@ -1,0 +1,10 @@
+1. Start
+2. Declare a character variable ch
+3. Prompt the user to enter a character
+4. Read the character
+5. Check if the character is an uppercase letter
+6. If it is uppercase
+      Display "Uppercase letter"
+   Otherwise
+      Display "Not an uppercase letter"
+7. Stop

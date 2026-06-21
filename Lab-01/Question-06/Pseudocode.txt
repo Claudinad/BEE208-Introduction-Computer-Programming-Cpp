@@ -1,0 +1,14 @@
+BEGIN
+
+DECLARE ch AS CHARACTER
+
+DISPLAY "Enter a character:"
+INPUT ch
+
+IF ch is an uppercase letter THEN
+    DISPLAY "Uppercase letter"
+ELSE
+    DISPLAY "Not an uppercase letter"
+END IF
+
+END
