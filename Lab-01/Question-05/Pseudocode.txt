@@ -1,0 +1,14 @@
+BEGIN
+
+DECLARE firstValue, secondValue AS INTEGER
+
+DISPLAY "Enter two integers:"
+INPUT firstValue, secondValue
+
+IF firstValue > secondValue THEN
+    DISPLAY "First value is greater"
+ELSE
+    DISPLAY "Second value is greater"
+END IF
+
+END

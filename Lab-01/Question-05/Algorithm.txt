@@ -1,0 +1,10 @@
+1. Start
+2. Declare two integer variables: firstValue and secondValue
+3. Prompt the user to enter two integers
+4. Read the two integers
+5. Compare firstValue with secondValue
+6. If firstValue is greater than secondValue
+      Display "First value is greater"
+   Otherwise
+      Display "Second value is greater"
+7. Stop
