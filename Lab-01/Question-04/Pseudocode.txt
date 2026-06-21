@@ -1,0 +1,14 @@
+BEGIN
+
+DECLARE input AS STRING
+
+DISPLAY "Enter a string:"
+INPUT input
+
+IF input = "hello" THEN
+    DISPLAY "Hello!"
+ELSE
+    DISPLAY "Goodbye!"
+END IF
+
+END

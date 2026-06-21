@@ -1,0 +1,10 @@
+1. Start
+2. Declare a string variable called input
+3. Prompt the user to enter a string
+4. Read the string
+5. Compare the string with "hello"
+6. If the string is equal to "hello"
+      Display "Hello!"
+   Otherwise
+      Display "Goodbye!"
+7. Stop
