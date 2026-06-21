@@ -1,0 +1,11 @@
+1. Start
+2. Declare an integer variable num
+3. Prompt the user to enter a number
+4. Read the number
+5. Check if the number is odd
+6. Check if the number is divisible by 3
+7. If both conditions are true
+      Display "The number is both odd and divisible by 3."
+   Otherwise
+      Display "The number is not both odd and divisible by 3."
+8. Stop

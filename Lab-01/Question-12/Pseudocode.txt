@@ -1,0 +1,14 @@
+BEGIN
+
+DECLARE num AS INTEGER
+
+DISPLAY "Enter a number:"
+INPUT num
+
+IF (num MOD 2 ≠ 0) AND (num MOD 3 = 0) THEN
+    DISPLAY "The number is both odd and divisible by 3."
+ELSE
+    DISPLAY "The number is not both odd and divisible by 3."
+END IF
+
+END
