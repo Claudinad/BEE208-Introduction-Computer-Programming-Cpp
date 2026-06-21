@@ -1,0 +1,14 @@
+BEGIN
+
+DECLARE str AS STRING
+
+DISPLAY "Enter a string:"
+INPUT str
+
+IF str contains 'a' THEN
+    DISPLAY "Contains 'a'"
+ELSE
+    DISPLAY "Does not contain 'a'"
+END IF
+
+END

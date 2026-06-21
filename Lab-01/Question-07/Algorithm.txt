@@ -1,0 +1,10 @@
+1. Start
+2. Declare a string variable str
+3. Prompt the user to enter a string
+4. Read the string
+5. Check whether the string contains the character 'a'
+6. If 'a' is found
+      Display "Contains 'a'"
+   Otherwise
+      Display "Does not contain 'a'"
+7. Stop
