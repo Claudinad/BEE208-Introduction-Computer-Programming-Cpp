@@ -23,6 +23,5 @@ Each question folder contains:
 - C++ source code
 - Algorithm
 - Pseudocode
-- Flowchart
 - Output screenshot
 - README
