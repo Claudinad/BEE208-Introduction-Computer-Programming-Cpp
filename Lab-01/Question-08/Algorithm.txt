@@ -1,0 +1,10 @@
+1. Start
+2. Declare an integer variable num
+3. Prompt the user to enter an integer
+4. Read the integer
+5. Check if num modulo 2 is not equal to 0
+6. If true
+      Display "Odd number"
+   Otherwise
+      Display "Even number"
+7. Stop

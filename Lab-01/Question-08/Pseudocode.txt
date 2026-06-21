@@ -1,0 +1,14 @@
+BEGIN
+
+DECLARE num AS INTEGER
+
+DISPLAY "Enter an integer:"
+INPUT num
+
+IF num MOD 2 ≠ 0 THEN
+    DISPLAY "Odd number"
+ELSE
+    DISPLAY "Even number"
+END IF
+
+END
