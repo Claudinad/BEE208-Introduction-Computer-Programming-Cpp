@@ -1,0 +1,19 @@
+BEGIN
+
+DECLARE a, b AS INTEGER
+
+DISPLAY "Enter first number:"
+INPUT a
+
+DISPLAY "Enter second number:"
+INPUT b
+
+DISPLAY values of a and b before swapping
+
+a = a XOR b
+b = a XOR b
+a = a XOR b
+
+DISPLAY values of a and b after swapping
+
+END
