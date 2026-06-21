@@ -1,0 +1,10 @@
+1. Start
+2. Declare three floating-point variables: num1, num2, and larger
+3. Prompt the user to enter the first floating-point number
+4. Read num1
+5. Prompt the user to enter the second floating-point number
+6. Read num2
+7. Compare num1 and num2 using the conditional operator
+8. Store the larger value in larger
+9. Display the larger value
+10. Stop

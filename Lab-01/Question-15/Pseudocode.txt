@@ -1,0 +1,15 @@
+BEGIN
+
+DECLARE num1, num2, larger AS REAL
+
+DISPLAY "Enter first floating-point number:"
+INPUT num1
+
+DISPLAY "Enter second floating-point number:"
+INPUT num2
+
+larger = (num1 > num2) ? num1 : num2
+
+DISPLAY "The larger number is:", larger
+
+END
