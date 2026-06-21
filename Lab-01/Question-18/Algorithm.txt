@@ -1,0 +1,15 @@
+1. Start
+2. Declare variables:
+      binaryNum as long long
+      decimalNum = 0
+      i = 0
+3. Prompt the user to enter a binary number
+4. Read the binary number
+5. Repeat while binaryNum is not equal to 0
+      a. Find the last digit using modulus 10
+      b. Multiply the digit by 2 raised to the power i
+      c. Add the result to decimalNum
+      d. Remove the last digit from binaryNum
+      e. Increment i
+6. Display the decimal equivalent
+7. Stop
