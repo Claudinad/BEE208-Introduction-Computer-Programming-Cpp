@@ -1,0 +1,14 @@
+BEGIN
+
+DECLARE num AS INTEGER
+
+DISPLAY "Enter a number:"
+INPUT num
+
+IF num > 0 AND ((num AND (num - 1)) = 0) THEN
+    DISPLAY num, " is a power of 2."
+ELSE
+    DISPLAY num, " is not a power of 2."
+END IF
+
+END
