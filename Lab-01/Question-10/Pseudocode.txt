@@ -1,0 +1,12 @@
+BEGIN
+
+DECLARE num1, num2, larger AS INTEGER
+
+DISPLAY "Enter two integers:"
+INPUT num1, num2
+
+larger = (num1 > num2) ? num1 : num2
+
+DISPLAY "The larger number is:", larger
+
+END

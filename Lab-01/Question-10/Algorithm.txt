@@ -1,0 +1,8 @@
+1. Start
+2. Declare three integer variables: num1, num2, and larger
+3. Prompt the user to enter two integers
+4. Read num1 and num2
+5. Compare num1 and num2 using the conditional operator
+6. Store the larger value in larger
+7. Display the larger value
+8. Stop
