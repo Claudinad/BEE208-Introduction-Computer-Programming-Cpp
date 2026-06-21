@@ -1,0 +1,10 @@
+1. Start
+2. Declare three integer variables: num1, num2, and num3
+3. Prompt the user to enter three integers
+4. Read the three integers
+5. Compare the three integers
+6. If num1 equals num2 and num2 equals num3
+   Display "Equal"
+   Otherwise
+   Display "Not equal"
+7. Stop

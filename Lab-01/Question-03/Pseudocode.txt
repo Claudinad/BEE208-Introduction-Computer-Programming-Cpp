@@ -1,0 +1,14 @@
+BEGIN
+
+DECLARE num1, num2, num3 AS INTEGER
+
+DISPLAY "Enter three integers:"
+INPUT num1, num2, num3
+
+IF num1 = num2 AND num2 = num3 THEN
+DISPLAY "Equal"
+ELSE
+DISPLAY "Not equal"
+END IF
+
+END
