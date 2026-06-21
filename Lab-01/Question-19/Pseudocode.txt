@@ -1,0 +1,17 @@
+BEGIN
+
+DECLARE binary AS STRING
+DECLARE decimal = 0
+
+DISPLAY "Enter a binary number:"
+INPUT binary
+
+FOR EACH bit IN binary DO
+    decimal = (decimal × 2) + (bit - '0')
+END FOR
+
+DISPLAY "Decimal:", decimal
+DISPLAY "Hexadecimal:", decimal in hexadecimal format
+DISPLAY "Octal:", decimal in octal format
+
+END

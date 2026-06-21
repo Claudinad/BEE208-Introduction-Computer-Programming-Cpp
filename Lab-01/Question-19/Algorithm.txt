@@ -1,0 +1,12 @@
+1. Start
+2. Declare a string variable binary
+3. Declare an integer variable decimal and initialize it to 0
+4. Prompt the user to enter a binary number
+5. Read the binary number
+6. For each digit in the binary number
+      a. Multiply decimal by 2
+      b. Add the current binary digit value
+7. Display the decimal equivalent
+8. Display the hexadecimal equivalent
+9. Display the octal equivalent
+10. Stop
