@@ -1,6 +1,6 @@
 # Lab 01 - Assignment 1
 
-This lab contains solutions to Assignment 1.
+This lab contains solutions to c++ partical questions in Assignment 1.
 
 ## Questions
 - Question 1
