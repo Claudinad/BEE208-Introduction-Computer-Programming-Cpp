@@ -1,0 +1,19 @@
+START
+
+safeCount = 0
+unsafeCount = 0
+
+FOR i = 1 TO 8
+    INPUT current
+
+    IF current <= 10 THEN
+        safeCount++
+    ELSE
+        unsafeCount++
+    END IF
+END FOR
+
+DISPLAY safeCount
+DISPLAY unsafeCount
+
+STOP
