@@ -1,0 +1,12 @@
+START
+
+total = 0
+
+FOR i = 1 TO 5
+    INPUT resistor
+    total = total + resistor
+END FOR
+
+DISPLAY total resistance
+
+STOP

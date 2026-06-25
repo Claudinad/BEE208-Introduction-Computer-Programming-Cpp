@@ -1,0 +1,8 @@
+1. Start.
+2. Declare resistor and total resistance variables.
+3. Set total = 0.
+4. Use a for loop from 1 to 5.
+5. Input resistor value.
+6. Add resistor value to total.
+7. After loop, display total resistance.
+8. Stop.
