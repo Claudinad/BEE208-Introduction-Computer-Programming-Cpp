@@ -1,0 +1,12 @@
+START
+
+INPUT voltage
+
+WHILE voltage >= 12
+    DISPLAY "Voltage Reading = ", voltage
+    INPUT voltage
+END WHILE
+
+DISPLAY "Battery voltage low. Recharge required."
+
+STOP

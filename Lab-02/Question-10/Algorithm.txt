@@ -1,0 +1,9 @@
+1. Start.
+2. Declare variable voltage.
+3. Input battery voltage.
+4. While voltage is 12 V or above:
+  -Display voltage reading.
+  -Input another voltage reading.
+5. When voltage drops below 12 V:
+  -Display "Battery voltage low. Recharge required."
+6. Stop.
