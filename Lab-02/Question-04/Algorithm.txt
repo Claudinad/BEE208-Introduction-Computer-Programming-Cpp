@@ -1,0 +1,11 @@
+1. Start.
+2. Display component menu.
+3. Input user's choice.
+4. Use switch statement:
+  -1 → Resistor description
+  -2 → Capacitor description
+  -3 → Diode description
+  -4 → Transistor description
+  -5 → LED description
+  -Default → Invalid selection
+5. Stop.

@@ -1,0 +1,26 @@
+START
+
+DISPLAY menu
+INPUT choice
+
+SWITCH(choice)
+    CASE 1:
+        DISPLAY "Resistor: Used to limit current in a circuit"
+        BREAK
+    CASE 2:
+        DISPLAY "Capacitor: Stores electrical energy"
+        BREAK
+    CASE 3:
+        DISPLAY "Diode: Allows current to flow in one direction"
+        BREAK
+    CASE 4:
+        DISPLAY "Transistor: Used for switching and amplification"
+        BREAK
+    CASE 5:
+        DISPLAY "LED: Emits light when current flows"
+        BREAK
+    DEFAULT:
+        DISPLAY "Invalid selection"
+END SWITCH
+
+STOP
