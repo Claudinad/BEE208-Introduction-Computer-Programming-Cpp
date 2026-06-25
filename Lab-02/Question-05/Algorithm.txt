@@ -1,0 +1,7 @@
+1. Start.
+2. Display calculation menu.
+3. Input choice.
+4. Use switch statement.
+5. Perform selected calculation.
+6. Display result with units.
+7. Stop.
