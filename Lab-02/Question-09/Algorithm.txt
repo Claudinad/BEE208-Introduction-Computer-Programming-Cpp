@@ -1,0 +1,9 @@
+1. Start.
+2. Declare current.
+3. Input current.
+4. While current ≤ 10:
+  -Display safe current.
+  -Input next current.
+5. When current > 10:
+  -Display overcurrent message.
+6. Stop.

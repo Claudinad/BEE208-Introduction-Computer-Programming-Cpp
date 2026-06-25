@@ -1,0 +1,12 @@
+START
+
+INPUT current
+
+WHILE current <= 10
+    DISPLAY current
+    INPUT current
+END WHILE
+
+DISPLAY "Overcurrent detected. Monitoring stopped."
+
+STOP
