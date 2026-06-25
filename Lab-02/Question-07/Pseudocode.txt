@@ -1,0 +1,14 @@
+START
+
+total = 0
+
+FOR i = 1 TO 10
+    INPUT voltage
+    total = total + voltage
+END FOR
+
+average = total / 10
+
+DISPLAY average
+
+STOP
