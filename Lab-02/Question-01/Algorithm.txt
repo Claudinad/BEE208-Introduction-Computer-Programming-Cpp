@@ -1,0 +1,9 @@
+1. Start.
+2. Declare variable voltage.
+3. Input voltage.
+4. If voltage < 0, display "Invalid voltage reading".
+5. Else if voltage ≤ 50, display "Low voltage".
+6. Else if voltage ≤ 240, display "Normal voltage".
+7. Else if voltage ≤ 415, display "High voltage".
+8. Else display "Dangerous voltage".
+9. Stop.

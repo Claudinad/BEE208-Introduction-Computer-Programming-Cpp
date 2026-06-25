@@ -1,0 +1,16 @@
+START
+INPUT voltage
+
+IF voltage < 0 THEN
+    DISPLAY "Invalid voltage reading"
+ELSE IF voltage <= 50 THEN
+    DISPLAY "Low voltage"
+ELSE IF voltage <= 240 THEN
+    DISPLAY "Normal voltage"
+ELSE IF voltage <= 415 THEN
+    DISPLAY "High voltage"
+ELSE
+    DISPLAY "Dangerous voltage"
+END IF
+
+STOP
