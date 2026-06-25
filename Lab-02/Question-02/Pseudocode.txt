@@ -1,0 +1,12 @@
+START
+
+INPUT ratedCurrent
+INPUT measuredCurrent
+
+IF measuredCurrent > ratedCurrent THEN
+    DISPLAY "Overload detected. Circuit breaker should trip."
+ELSE
+    DISPLAY "Current is within safe limit."
+END IF
+
+STOP

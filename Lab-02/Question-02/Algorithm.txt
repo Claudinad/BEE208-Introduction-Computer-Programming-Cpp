@@ -1,0 +1,6 @@
+1. Start.
+2. Declare ratedCurrent and measuredCurrent.
+3. Input both values.
+4. If measuredCurrent > ratedCurrent, display overload message.
+5. Otherwise display safe limit message.
+6. Stop.
