@@ -1,0 +1,11 @@
+START
+
+INPUT GPA
+
+IF GPA >= 3.5 THEN
+    DISPLAY "Eligible for engineering scholarship"
+ELSE
+    DISPLAY "Not eligible for engineering scholarship"
+END IF
+
+STOP

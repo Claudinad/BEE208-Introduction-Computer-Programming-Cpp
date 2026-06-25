@@ -1,0 +1,6 @@
+1. Start.
+2. Declare GPA.
+3. Input GPA.
+4. If GPA ≥ 3.5 display eligible message.
+5. Otherwise display not eligible message.
+6. Stop.
