@@ -1,0 +1,16 @@
+1. Start.
+2. Declare variables temperature, total, and count.
+3. Initialize total = 0 and count = 0.
+4. Use a for loop to accept 10 temperature readings.
+5. For each reading:
+  -Input the temperature.
+ -If the temperature is less than 0°C:
+    -Display "Invalid reading."
+    -Use continue to skip the reading.
+  -Otherwise:
+    -Add the temperature to total.
+    -Increase count by 1.
+6. After the loop:
+  -If count > 0, calculate the average temperature.
+  -Display the average.
+7. Stop.

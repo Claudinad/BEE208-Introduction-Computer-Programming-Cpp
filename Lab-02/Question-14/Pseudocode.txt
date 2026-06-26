@@ -1,0 +1,25 @@
+START
+
+SET total = 0
+SET count = 0
+
+FOR i = 1 TO 10
+    INPUT temperature
+
+    IF temperature < 0 THEN
+        DISPLAY "Invalid reading"
+        CONTINUE
+    END IF
+
+    total = total + temperature
+    count = count + 1
+END FOR
+
+IF count > 0 THEN
+    average = total / count
+    DISPLAY average
+ELSE
+    DISPLAY "No valid readings"
+END IF
+
+STOP
