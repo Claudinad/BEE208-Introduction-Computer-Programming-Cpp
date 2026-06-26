@@ -21,12 +21,15 @@ Write a C++ program that continuously accepts current readings until an overcurr
 ## Sample Output
 
 Enter Current Reading = 5
+
 Safe Current Reading = 5 A
 
 Enter Current Reading = 8
+
 Safe Current Reading = 8 A
 
 Enter Current Reading = 9
+
 Safe Current Reading = 9 A
 
 Enter Current Reading = 11
