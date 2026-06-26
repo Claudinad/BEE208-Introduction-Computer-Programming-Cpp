@@ -1,0 +1,38 @@
+START
+
+DO
+    DISPLAY menu
+    INPUT choice
+
+    SWITCH(choice)
+
+        CASE 1:
+            INPUT voltage, current
+            power = voltage × current
+            DISPLAY power
+            BREAK
+
+        CASE 2:
+            INPUT voltage, current
+            resistance = voltage ÷ current
+            DISPLAY resistance
+            BREAK
+
+        CASE 3:
+            INPUT power, time
+            energy = power × time
+            DISPLAY energy
+            BREAK
+
+        CASE 4:
+            DISPLAY "Exiting program..."
+            BREAK
+
+        DEFAULT:
+            DISPLAY "Invalid choice"
+
+    END SWITCH
+
+WHILE choice != 4
+
+STOP

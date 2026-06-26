@@ -1,0 +1,15 @@
+1. Start.
+2. Declare variables for choice, voltage, current, power, resistance, time, and energy.
+3. Display the menu:
+  -Calculate Power
+  -Calculate Resistance
+  -Calculate Energy
+  -Exit
+4. Accept the user's choice.
+5. Use a switch statement to perform the selected operation:
+  -Calculate Power = Voltage × Current
+  -Calculate Resistance = Voltage ÷ Current
+  -Calculate Energy = Power × Time
+  -Exit the program
+6. Repeat the menu using a do...while loop until the user selects option 4.
+7. Stop.
