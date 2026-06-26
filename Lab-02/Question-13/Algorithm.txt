@@ -1,0 +1,11 @@
+1. Start.
+2. Declare a variable voltage.
+3. Use a for loop to accept up to 10 battery voltage readings.
+4. For each reading:
+  -Input the battery voltage.
+  -If the voltage is less than 10.5 V:
+    -Display "Low battery detected. Test stopped."
+    -Use break to terminate the loop.
+  -Otherwise:
+    -Display "Battery voltage normal."
+5. Stop.
