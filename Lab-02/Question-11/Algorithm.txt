@@ -1,0 +1,8 @@
+1. Start.
+2. Declare an integer variable password.
+3. Prompt the user to enter the password.
+4. While the password is not equal to 2080:
+  -Display "Incorrect password. Try again."
+  -Prompt the user to enter the password again.
+5. Display "Access granted to control panel."
+6. Stop.

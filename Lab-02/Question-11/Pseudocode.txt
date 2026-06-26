@@ -1,0 +1,14 @@
+START
+
+DECLARE password
+
+INPUT password
+
+WHILE password != 2080
+    DISPLAY "Incorrect password. Try again."
+    INPUT password
+END WHILE
+
+DISPLAY "Access granted to control panel."
+
+STOP
