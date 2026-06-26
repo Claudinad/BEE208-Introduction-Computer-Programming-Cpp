@@ -1,0 +1,15 @@
+START
+
+SET totalLoad = 0
+
+WHILE totalLoad <= 3000
+    INPUT power
+    totalLoad = totalLoad + power
+
+    DISPLAY "Current Total Load =", totalLoad
+END WHILE
+
+DISPLAY "Load limit exceeded. Do not add more appliances."
+DISPLAY "Final Total Load =", totalLoad
+
+STOP

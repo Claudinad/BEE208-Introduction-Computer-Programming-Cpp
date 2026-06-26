@@ -1,0 +1,11 @@
+1. Start.
+2. Declare variables power and totalLoad.
+3. Initialize totalLoad = 0.
+4. While totalLoad is less than or equal to 3000 W:
+  -Input the appliance power rating.
+  -Add the power rating to totalLoad.
+  -Display the current total load.
+5. If totalLoad exceeds 3000 W:
+  -Display "Load limit exceeded. Do not add more appliances."
+6. Display the final total load.
+7. Stop.
